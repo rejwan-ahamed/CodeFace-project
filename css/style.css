@@ -22,3 +22,11 @@ html,body{
     top: 60px;
 }
 
+.check-domain-section{
+    background-image: url('/images/domain.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
