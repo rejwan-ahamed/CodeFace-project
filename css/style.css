@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    overflow-x: hidden;
+    font-family: 'General Sans', sans-serif;
+}
+
+/* price title styling */
+.pricing-title{
+    height: 3rem !important;
+    position: relative;
+}
+
+.money-symbol{
+    position: absolute;
+    top: 30px;
+}
+.par-month{
+    position: relative;
+    top: 60px;
+}
