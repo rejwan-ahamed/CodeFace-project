@@ -1,5 +1,3 @@
-console.log('hello I ma form flags js')
-
 // main flag body section selector
 let flagsBody = document.getElementById('flags');
 
